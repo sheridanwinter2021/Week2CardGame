@@ -8,7 +8,7 @@ package week2cardgame;
 import java.util.Scanner;
 
 /**view class- User interaction 
- * date:
+ * date: may 30
  * @author sivagamasrinivasan
  */
 public class Week2CardGame {
